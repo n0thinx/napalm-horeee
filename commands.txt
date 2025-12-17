@@ -1,0 +1,4 @@
+show version
+show ip route
+show interface
+show tech
